@@ -1,0 +1,25 @@
+
+
+#footer-spanarent{
+    width:100%;
+    margin-top: 100px;
+    background-color:#5301BB;
+    display: flex;
+    justify-content: center;
+    padding:20px;
+}
+#footer-spanarent h3, span{
+    color:white;
+}
+#footer-Div-2-bottom a{
+    color: white;
+}
+#footer-Div-1{
+    width: 30%;
+}
+#footer-Div-2{
+    width:30%;
+}
+#footer-Div-3{
+    width:30%;
+}
