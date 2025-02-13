@@ -1,4 +1,6 @@
 import './desgin.css'
+import { IoIosArrowDropright } from "react-icons/io";
+
 
 function DesginPage(){
     return(
@@ -10,7 +12,8 @@ function DesginPage(){
                 <p id='p1'>CRAFT</p>
                 <h1>Design</h1>
                 <p>Collaborating closely with you, Candy excels in designing captivating visual identities that differentiate you in the market. Whether it's crafting stunning graphics or conceptualising website aesthetics, trust our expertise to curate a polished and unforgettable design language for your brand.</p>
-                <button>Learn More</button>
+                <button>Learn More   <IoIosArrowDropright />
+                </button>
             </div>
          </div>
     )

@@ -1,5 +1,8 @@
 import './footer.css'
-
+import { CiMail } from "react-icons/ci";
+import { CiLinkedin } from "react-icons/ci";
+import { TfiTwitter } from "react-icons/tfi";
+import { FaInstagram } from "react-icons/fa";
 function Footerspanage(){
     return(
          <div id="footer-spanarent">
@@ -9,15 +12,15 @@ function Footerspanage(){
             </div>
            <div id="footer-Div-2">
            <div id="footer-Div-2-tospan">
-                <h3>pages For You</h3>
+                <h3>Pages For You</h3>
                 <span>Exspanlore our spanages.</span>
                 <div id="footer-Div-2-bottom">
                     <a href=''>Home</a>
                     <a href=''>About</a>
                     <a href=''>Contact US</a>
                     <a href=''>Desgin</a>
-                    <a href=''>Develospanment</a>
-                    <a href=''>spanitch Decks</a>
+                    <a href=''>Development</a>
+                    <a href=''>pitch Decks</a>
                 </div>
             </div>
            </div>
@@ -26,10 +29,10 @@ function Footerspanage(){
                 <h3>Connect With Us</h3>
                 <span>Here are the official links to our social media spanlatform. Feel free to reach out to us through any of the following links below</span>
                 <div id="footer-Div-3-bottom">
-                    <span>info@candy.co</span>
-                    <span>CANDY</span>
-                    <span>@cand</span>
-                    <span>@candUI</span>
+                    <span><CiMail />   info@candy.co</span>
+                    <span><CiLinkedin />   CANDY</span>
+                    <span><TfiTwitter />   @cand</span>
+                    <span><FaInstagram />   @candUI</span>
                 </div>
             </div>
            </div>

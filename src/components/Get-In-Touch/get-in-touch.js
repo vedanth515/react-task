@@ -1,4 +1,6 @@
 import './get-in-touch.css'
+import { IoIosArrowDropright } from "react-icons/io";
+
 
 function GetInTouch(){
     return(
@@ -14,8 +16,8 @@ function GetInTouch(){
                     <input placeholder="Mail@Example.com"></input>
                 </div>
                 <div id="get-in-right-bottom">
-                    <input placeholder="Type Here"></input>
-                    <button>Send Message</button>
+                    <textarea placeholder="Type Here"></textarea>
+                    <button>Send Message        <IoIosArrowDropright /></button>
                 </div>
             </div>
         </div>

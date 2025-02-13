@@ -25,6 +25,7 @@
 #get-in-right-top input{
     padding: 10px;
     border-radius: 5px;
+    border:1px solid gray;
 }
 #get-in-right-bottom{
     display: flex;
@@ -32,9 +33,11 @@
     gap:55px;
     flex-direction: column;
 }
-#get-in-right-bottom input{
+#get-in-right-bottom textarea{
     width:448px;
     height:120px;
+    border-color: gray;
+    border: 1px solid;
     border-radius: 5px;
 }
 #get-in-right-bottom button{

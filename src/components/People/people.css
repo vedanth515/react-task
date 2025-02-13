@@ -5,12 +5,13 @@
 #people-card-Div-1{
     width:380px;
     height:350px;
-    border: 2px solid blueviolet;
+    border: 2px solid rgb(173, 118, 225);
     margin-bottom: 50px;
     padding:10px;
     border-radius: 5px;
 
 }
+
 #people-cards-Div{
     display: flex;
     justify-content:flex-start;

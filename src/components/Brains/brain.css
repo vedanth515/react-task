@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;
     width:100%;
-    gap:200px;
+    gap:150px;
     margin-top: 200px;
 }
 #brain-left{
@@ -16,13 +16,23 @@
     color:blueviolet;
 }
 #brain-left button{
-    width:140px;
+    width:180px;
     padding:7px;
     border:none;
     border-radius: 5px;
     background-color: blueviolet;
     color: white;
 }
-#brain-right img{
+/* #brain-right img{
     border-radius: 5px;
+} */
+
+#brain-right{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+
+}
+#brain-right img{
+    border-radius: 50%;
 }

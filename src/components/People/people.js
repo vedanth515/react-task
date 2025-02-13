@@ -33,7 +33,6 @@ function PeoplePage() {
                     </div>
                     <div id="inside-p-Div">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus eu nisi cursus ultrices vel eu lectus. Nullam nec aliquam felis. Vivamus faucibus condimentum scelerisque. Mauris gravida magna nec neque euismod pretium.
-                        Praesent quis justo erat. Vivamus faucibus condimentum scelerisque. Mauris gravida magna nec neque euismod pretium.
                         Praesent quis justo erat.</p>
                     </div>
                     
@@ -48,8 +47,8 @@ function PeoplePage() {
                     </div>
                     <div id="inside-p-Div">
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at metus eu nisi cursus ultrices vel eu lectus. Nullam nec aliquam felis. Vivamus faucibus condimentum scelerisque. Mauris gravida magna nec neque euismod pretium.
-                        Praesent quis justo erat. Vivamus faucibus condimentum scelerisque. Mauris gravida magna nec neque euismod pretium.
-                        Praesent quis justo erat.</p>
+                        Praesent quis justo erat. Vivamus faucibus condimentum scelerisque.
+                        </p>
                     </div>
                     
                 </div>

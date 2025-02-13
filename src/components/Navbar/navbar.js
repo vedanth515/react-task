@@ -7,7 +7,7 @@ import Navbar from 'react-bootstrap/Navbar';
 function NavbarComp() {
     return (
         <div>
-            <Navbar bg="light" data-bs-theme="light">
+            <Navbar bg="white" data-bs-theme="white">
                 <Container id='container'>
                     <Navbar.Brand href="#home"><h3>Candy UI</h3></Navbar.Brand>
                     <Navbar.Collapse>
